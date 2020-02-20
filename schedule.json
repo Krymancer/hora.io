@@ -1,0 +1,104 @@
+{
+    "Monday": {
+        "A": {
+            "name": "Mon A",
+            "color": "0"
+        },
+        "B": {
+            "name": "Mon B",
+            "color": "0"
+        },
+        "C": {
+            "name": "Paradigmas",
+            "color": "3"
+        },
+        "D": {
+            "name": "Mon D",
+            "color": "0"
+        }
+    },
+    "Tuesday": {
+        "A": {
+            "name": "Tue A",
+            "color": "0"
+        },
+        "B": {
+            "name": "Tue B",
+            "color": "0"
+        },
+        "C": {
+            "name": "Paradigmas",
+            "color": "3"
+        },
+        "D": {
+            "name": "Tue D",
+            "color": "0"
+        }
+    },
+    "Wednesday": {
+        "A": {
+            "name": "Wed A",
+            "color": "0"
+        },
+        "B": {
+            "name": "Física Geral III",
+            "color": "2"
+        },
+        "C": {
+            "name": "Engenharia Ambiental",
+            "color": "1"
+        },
+        "D": {
+            "name": "Wed D",
+            "color": "0"
+        }
+    },
+    "Thursday": {
+        "A": {
+            "name": "Thu A",
+            "color": "0"
+        },
+        "B": {
+            "name": "",
+            "color": "0"
+        },
+        "C": {
+            "name": "Física Geral III",
+            "color": "2"
+        },
+        "D": {
+            "name": "Thu D",
+            "color": "0"
+        }
+    },
+    "Friday": {
+        "A": {
+            "name": "Fri A",
+            "color": "0"
+        },
+        "B": {
+            "name": "Física Expermental II",
+            "color": "4"
+        },
+        "C": {
+            "name": "Fri C",
+            "color": "0"
+        },
+        "D": {
+            "name": "Fri D",
+            "color": "0"
+        }
+    },
+    "Saturday": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+    "Sunday": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    }
+}
