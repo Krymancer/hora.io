@@ -1,11 +1,11 @@
 {
     "Monday": {
         "A": {
-            "name": "Mon A",
+            "name": "",
             "color": "0"
         },
         "B": {
-            "name": "Mon B",
+            "name": "",
             "color": "0"
         },
         "C": {
@@ -13,17 +13,17 @@
             "color": "3"
         },
         "D": {
-            "name": "Mon D",
+            "name": "",
             "color": "0"
         }
     },
     "Tuesday": {
         "A": {
-            "name": "Tue A",
+            "name": "",
             "color": "0"
         },
         "B": {
-            "name": "Tue B",
+            "name": "",
             "color": "0"
         },
         "C": {
@@ -31,13 +31,13 @@
             "color": "3"
         },
         "D": {
-            "name": "Tue D",
+            "name": "",
             "color": "0"
         }
     },
     "Wednesday": {
         "A": {
-            "name": "Wed A",
+            "name": "",
             "color": "0"
         },
         "B": {
@@ -45,7 +45,7 @@
             "color": "2"
         },
         "C": {
-            "name": "Wed C",
+            "name": "",
             "color": "0"
         },
         "D": {
@@ -55,7 +55,7 @@
     },
     "Thursday": {
         "A": {
-            "name": "Thu A",
+            "name": "",
             "color": "0"
         },
         "B": {
@@ -67,13 +67,13 @@
             "color": "2"
         },
         "D": {
-            "name": "Thu D",
+            "name": "",
             "color": "0"
         }
     },
     "Friday": {
         "A": {
-            "name": "Fri A",
+            "name": "",
             "color": "0"
         },
         "B": {
@@ -81,11 +81,11 @@
             "color": "4"
         },
         "C": {
-            "name": "Fri C",
+            "name": "",
             "color": "0"
         },
         "D": {
-            "name": "Fri D",
+            "name": "",
             "color": "0"
         }
     },
