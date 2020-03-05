@@ -45,12 +45,12 @@
             "color": "2"
         },
         "C": {
-            "name": "Engenharia Ambiental",
-            "color": "1"
+            "name": "Wed C",
+            "color": "0"
         },
         "D": {
-            "name": "Wed D",
-            "color": "0"
+            "name": "Engenharia Ambiental",
+            "color": "1"
         }
     },
     "Thursday": {
