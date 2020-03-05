@@ -8,6 +8,8 @@ const weekGUI = {
     'Saturday': document.getElementById('sat')
 };
 
+const hours = document.getElementsByClassName("headcol");
+
 const table = document.getElementById('table').rows;
 
 const week = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
@@ -17,6 +19,20 @@ const today = week[new Date().getDay()];
 const colors = ['#fff','#00b4fc', '#eba130', '#82d071', '#50165c', '#cc6fbf', '#b63e0e']
 
 weekGUI[today].setAttribute('class', 'today');
+
+let hour = new Date().getHours();
+
+if(hour > 8 && hour < 18){
+    if(hour >= 15){
+        hours[3].style.color = "red";
+    }else if(hour >= 13){
+        hours[2].style.color = "red";
+    }else if(hour >= 10){
+        hours[1].style.color = "red";
+    }else{
+        hours[0].style.color = "red";
+    }
+}
 
 function createEvent(text) {
     return `<div class="event">${text}</div>`;
