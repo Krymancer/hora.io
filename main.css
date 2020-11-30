@@ -10,7 +10,7 @@ body {
 }
 
 .outer {
-    position: relative;
+    position: relative; 
 }
 
 .calendar {
@@ -23,7 +23,6 @@ body {
     overflow-x: hidden;
     overflow-y: hidden;
     max-width: 100%;
-    height: 500px;
     border-radius: 8px;
 }
 
@@ -93,6 +92,7 @@ table {
 
 .offset {
     width: 100%;
+    height: 80vh;
 }
 
 thead th {
@@ -143,29 +143,6 @@ tbody tr td {
     color: rgba(0, 0, 0, 0.4);
 }
 
-.checkbox {
-    display: none;
-}
-
-.checkbox+label {
-    border: 0;
-    outline: 0;
-    width: 100px;
-    background: white;
-    color: transparent;
-    display: block;
-    display: none;
-}
-
-.checkbox:checked+label {
-    border: 0;
-    outline: 0;
-    width: 100%;
-    background: red;
-    color: transparent;
-    display: inline-block;
-}
-
 .event {
     display: flex;
     align-items: center;
@@ -178,7 +155,6 @@ tbody tr td {
     overflow-y: hidden;
     height: 96%;
     border-radius: 3px;
-    ;
 }
 
 .today {
